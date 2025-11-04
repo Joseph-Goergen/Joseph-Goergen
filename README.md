@@ -24,7 +24,7 @@ Results-driven Software Engineer with over 6 years of experience building, maint
 ## **Professional Experience**
 
 ### **IBM – Cloud Update Team**  
-*Software Engineer* | 2018 – 2025  
+*Software Engineer* | 2019 – 2025  
 
 - Maintained and operated the **control plane and master components** for thousands of managed Kubernetes and OpenShift clusters hosted on **IBM Cloud**.  
 - Ensured **99.9% service uptime** by proactively identifying, reproducing, and resolving issues across multi-tenant environments before production rollout.  
