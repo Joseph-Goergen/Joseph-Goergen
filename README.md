@@ -1,17 +1,17 @@
 # **Joseph Goergen**
 **Software Engineer | Kubernetes, Cloud Infrastructure & Automation Specialist**  
-📍 [City, State] | 📧 [your.email@example.com] | 🔗 [LinkedIn] | 💻 [GitHub or Portfolio]
+📍 [Rochester, MN] | 📧 [josephgoergen@yahoo.com] | 🔗 [[LinkedIn](https://www.linkedin.com/in/joseph-goergen-a98473ba/)] | 💻 [[GitHub or Portfolio](https://github.com/Joseph-Goergen)]
 
 ---
 
 ## **Professional Summary**
-Results-driven Software Engineer with over 5 years of experience building, maintaining, and automating Kubernetes and OpenShift environments at scale on IBM Cloud. Subject Matter Expert (SME) in **containerd**, **Kubernetes control plane management**, and **infrastructure automation**. Strong background in **Golang**, **Bash**, **Terraform**, **Tekton**, **Ansible**, and **Linux systems**. Skilled in diagnosing complex distributed systems, leading production-grade updates, and ensuring **99.9% uptime** across thousands of clusters. Excels in cross-team collaboration and proactive issue resolution.
+Results-driven Software Engineer with over 6 years of experience building, maintaining, and automating Kubernetes and OpenShift environments at scale on IBM Cloud. Subject Matter Expert (SME) in **containerd**, **Kubernetes control plane management**, and **infrastructure automation**. Strong background in **Golang**, **Bash**, **Terraform**, **Tekton**, **Ansible**, and **Linux systems**. Skilled in diagnosing complex distributed systems, leading production-grade updates, and ensuring **99.9% uptime** across thousands of clusters. Excels in cross-team collaboration and proactive issue resolution.
 
 ---
 
 ## **Technical Skills**
 **Languages:** Golang, Bash  
-**Containerization:** Kubernetes, OpenShift, Docker, containerd  
+**Containerization:** Kubernetes, OpenShift, Docker, Containerd  
 **Infrastructure as Code:** Terraform, Ansible  
 **CI/CD:** Tekton, Jenkins, Travis CI  
 **Cloud Platforms:** IBM Cloud (transferable experience to AWS, GCP, Azure)  
