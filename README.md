@@ -5,13 +5,13 @@
 ---
 
 ## **Professional Summary**
-Results-driven Software Engineer with over 6 years of experience building, maintaining, and automating Kubernetes and OpenShift environments at scale on IBM Cloud. Subject Matter Expert (SME) in **containerd**, **Kubernetes control plane management**, and **infrastructure automation**. Strong background in **Golang**, **Bash**, **Terraform**, **Tekton**, **Ansible**, and **Linux systems**. Skilled in diagnosing complex distributed systems, leading production-grade updates, and ensuring **99.9% uptime** across thousands of clusters. Excels in cross-team collaboration and proactive issue resolution.
+Results-driven Software Engineer with over 5 years of experience building, maintaining, and automating Kubernetes and OpenShift environments at scale on IBM Cloud. Subject Matter Expert (SME) in **containerd**, **Kubernetes control plane management**, and **infrastructure automation**. Strong background in **Golang**, **Bash**, **Terraform**, **Tekton**, **Ansible**, and **Linux systems**. Skilled in diagnosing complex distributed systems, leading production-grade updates, and ensuring **99.9% uptime** across thousands of clusters. Recognized innovator with a **U.S. patent filed through IBM**. Excels in cross-team collaboration, root-cause analysis, and delivering scalable cloud solutions.
 
 ---
 
 ## **Technical Skills**
 **Languages:** Golang, Bash  
-**Containerization:** Kubernetes, OpenShift, Docker, Containerd  
+**Containerization:** Kubernetes, OpenShift, Docker, containerd  
 **Infrastructure as Code:** Terraform, Ansible  
 **CI/CD:** Tekton, Jenkins, Travis CI  
 **Cloud Platforms:** IBM Cloud (transferable experience to AWS, GCP, Azure)  
@@ -24,7 +24,7 @@ Results-driven Software Engineer with over 6 years of experience building, maint
 ## **Professional Experience**
 
 ### **IBM – Cloud Update Team**  
-*Software Engineer* | 2019 – 2025  
+*Software Engineer* | 2018 – 2025  
 
 - Maintained and operated the **control plane and master components** for thousands of managed Kubernetes and OpenShift clusters hosted on **IBM Cloud**.  
 - Ensured **99.9% service uptime** by proactively identifying, reproducing, and resolving issues across multi-tenant environments before production rollout.  
@@ -39,8 +39,27 @@ Results-driven Software Engineer with over 6 years of experience building, maint
 
 **Key Achievements:**
 - Diagnosed and patched multiple **containerd-level bugs**, performing code-level debugging and upstream reporting to the open-source community.  
+- **Filed a U.S. patent** through IBM for innovative solutions improving cloud automation and update reliability.  
 - Streamlined control plane update validation workflows, **reducing pre-deployment testing time by 30%**.  
 - Contributed to robust CI/CD pipelines that **prevented breaking changes from reaching production**, safeguarding thousands of customer workloads.
+
+---
+
+## **Projects**
+
+### **IBM Projects**
+- **Terraform Integration with Tekton CI:**  
+  Integrated Terraform into the GitHub-based Tekton CI pipeline to automate PR testing for infrastructure components, enabling faster feedback and consistent infrastructure validation.  
+- **Container Runtime Modernization:**  
+  Led the service-wide upgrade of Kubernetes clusters from **containerd 1.7 to 2.1**, including extensive QA validation, regression testing, and compatibility verification to ensure zero customer disruption.
+
+### **Personal Projects**
+- **Self-Hosted NAS & Home Infrastructure:**  
+  Built a **container-orchestrated NAS** using Docker on a mini PC, running open-source and self-hosted services with full **end-to-end domain security** via SSL and DNS management.  
+- **Security Camera Integration:**  
+  Implemented **PoE-based security cameras** feeding directly into the NAS using **motionEye**, storing streams locally for enhanced privacy and reliability.  
+- **3D Design & Printing:**  
+  Designed and printed a custom **7–8 player Settlers of Catan board**, demonstrating strong problem-solving, creativity, and iterative design skills.
 
 ---
 
