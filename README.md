@@ -5,7 +5,7 @@
 ---
 
 ## **Professional Summary**
-Results-driven Software Engineer with over 5 years of experience building, maintaining, and automating Kubernetes and OpenShift environments at scale on IBM Cloud. Subject Matter Expert (SME) in **containerd**, **Kubernetes control plane management**, and **infrastructure automation**. Strong background in **Golang**, **Bash**, **Terraform**, **Tekton**, **Ansible**, and **Linux systems**. Skilled in diagnosing complex distributed systems, leading production-grade updates, and ensuring **99.9% uptime** across thousands of clusters. Recognized innovator with a **U.S. patent filed through IBM**. Excels in cross-team collaboration, root-cause analysis, and delivering scalable cloud solutions.
+Results-driven Software Engineer with over 6 years of experience building, maintaining, and automating Kubernetes and OpenShift environments at scale on IBM Cloud. Subject Matter Expert (SME) in **containerd**, **Kubernetes control plane management**, and **infrastructure automation**. Strong background in **Golang**, **Bash**, **Terraform**, **Tekton**, **Ansible**, and **Linux systems**. Skilled in diagnosing complex distributed systems, leading production-grade updates, and ensuring **99.9% uptime** across thousands of clusters. Recognized innovator with a **U.S. patent filed through IBM**. Excels in cross-team collaboration, root-cause analysis, and delivering scalable cloud solutions.
 
 ---
 
