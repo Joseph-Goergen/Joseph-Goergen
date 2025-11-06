@@ -17,17 +17,18 @@ Results-driven Software Engineer with over 6 years of experience building, maint
 **Cloud Platforms:** IBM Cloud (transferable experience to AWS, GCP, Azure)  
 **Monitoring & Logging:** Prometheus, Grafana, Kubernetes Auditing, IBM Cloud Logs  
 **Security & Access Control:** RBAC, IAM  
-**Operating Systems:** Linux (Ubuntu, Red Hat), Shell scripting, System administration  
+**Operating Systems:** Linux (Ubuntu, RHEL, RHCOS), Shell scripting, System administration  
+**Services:** IBM Cloud Kubernetes Service (IKS), Red Hat Openshift on IBM Cloud (ROKS)
 
 ---
 
 ## **Professional Experience**
 
 ### **IBM – Cloud Update Team**  
-*Software Engineer* | 2018 – 2025  
+*Software Engineer* | Feb 2019 – Dec 2025  
 
 - Maintained and operated the **control plane and master components** for thousands of managed Kubernetes and OpenShift clusters hosted on **IBM Cloud**.  
-- Ensured **99.9% service uptime** by proactively identifying, reproducing, and resolving issues across multi-tenant environments before production rollout.  
+- Ensured **99.999% production service uptime** by proactively identifying, reproducing, and resolving issues across multi-tenant environments before production rollout.  
 - Acted as **Subject Matter Expert (SME)** for the **containerd** runtime—testing updates, patching bugs introduced by the open-source community, and coordinating fixes upstream.  
 - Led **high-availability (HA)** initiatives for all control plane components, ensuring fault tolerance and reliability across regions.  
 - Automated environment provisioning, updates, and testing pipelines using **Terraform**, **Tekton**, **Ansible**, and **Jenkins**, improving deployment efficiency and consistency.  
