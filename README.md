@@ -10,7 +10,7 @@ Results-driven Software Engineer with over 6 years of experience building, maint
 ---
 
 ## **Technical Skills**
-**Languages:** Golang, Bash  
+**Languages:** Golang, Bash, Java
 **Containerization:** Kubernetes, OpenShift, Docker, containerd  
 **Infrastructure as Code:** Terraform, Ansible  
 **CI/CD:** Tekton, Jenkins, Travis CI  
