@@ -43,6 +43,7 @@ Results-driven Software Engineer with over 6 years of experience building, maint
 - **Filed a U.S. patent** through IBM for innovative solutions improving cloud automation and update reliability.  
 - Streamlined control plane update validation workflows, **reducing pre-deployment testing time by 30%**.  
 - Contributed to robust CI/CD pipelines that **prevented breaking changes from reaching production**, safeguarding thousands of customer workloads.
+- Migrated ROKS clusters from the ibm-roks-toolkit to Hypershift Operator, which resulted in recieving IBM's OTAA (Outstanding Technical Achievement Award).
 
 ---
 
