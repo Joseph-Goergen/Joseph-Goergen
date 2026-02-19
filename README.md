@@ -47,6 +47,11 @@ Results-driven Software Engineer with over 6 years of experience building, maint
 
 ---
 
+**Certificates:**
+CKA (Certified Kubernetes Administrator) - Issued Feb 2026
+
+---
+
 ## **Projects**
 
 ### **IBM Projects**
